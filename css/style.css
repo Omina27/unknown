@@ -1,0 +1,16 @@
+body {
+    font-family: "Indie Flower";
+    background-image: url(../images/photo_2021-11-04_16-06-40.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.text {
+    font-family: "Indie Flower";
+    padding:0  120px 0  120px;
+    font-size: 70px;
+    text-align: center;
+    margin-top: 120px;
+
+}
